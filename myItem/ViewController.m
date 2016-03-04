@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // 1.0已完成。
+    //2.0即将上传。
 }
 
 - (void)didReceiveMemoryWarning {
